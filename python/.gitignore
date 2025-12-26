@@ -1,0 +1,5 @@
+.env
+python/.env
+*.env
+.env
+python/.env
